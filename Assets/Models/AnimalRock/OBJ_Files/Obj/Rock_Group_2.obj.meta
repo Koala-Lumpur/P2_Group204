@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 5e2d044725921c740857c950dc160ff8
-timeCreated: 1524557783
+timeCreated: 1525101830
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -23,12 +23,7 @@ ModelImporter:
     4300000: group_pasted__pasted__pCylinder1_pasted__group
     4300002: pasted__pCube1_group
     4300004: pCube1
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert6SG
-    second: {fileID: 2100000, guid: 75502e8f1071ce5459f9f76581c8d3d0, type: 3}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

@@ -36,8 +36,9 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4593807981689186}
+  - component: {fileID: 114728789236739244}
   m_Layer: 0
-  m_Name: Bird
+  m_Name: Crow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -255,3 +256,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1617871443058516}
   m_Mesh: {fileID: 4300002, guid: aff6c24a13172ef4794b9fafea4c1822, type: 3}
+--- !u!114 &114728789236739244
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1038906584123910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff03a8c65c01954c9cb7b55f18bf2c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: []
+  speed: 0
+  reachDist: 0
+  currentPoint: 0
